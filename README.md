@@ -3,10 +3,10 @@
   <!-- GitHub Stats -->
 
 <img
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosAlbertoJunior&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=00008B&icon_color=FF00F6&theme=jolly"
-alt="GitHub Stats"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosAlbertoJunior&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=00008B&icon_color=FF00F6&theme=jolly"
+  alt="GitHub Stats"
+/>
 
->
 
   <!-- Most Used Languages -->
   <a href="https://github.com/CarlosAlbertoJunior/github-readme-stats">
