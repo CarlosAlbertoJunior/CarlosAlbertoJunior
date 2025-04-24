@@ -1,5 +1,5 @@
 <div align="center">
-
+ <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
 
 <img
@@ -15,6 +15,7 @@
       alt="Most Used Languages"
     >
   </a>
+  </div>
  <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Angular" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
