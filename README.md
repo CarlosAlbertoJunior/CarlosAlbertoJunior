@@ -1,10 +1,13 @@
 <H3>SOBRE</H3>
-Olá, me chamo Carlos Alberto Junior, mas pode chamar de <b>Cloud</b>: <br>
-- Sou Empreendedor e produtor Geek. <br>
-- Cosplay e músico por hobbie e apaixonado pelo universo. <br>
-- Atualmente estou me especializando em Programação Front End pelo curso da FORD ENTER via SENAI. <br>
-- Visitem o meu site, feito com muita dedicação. <br>
-- 💬 "Viva por algo ou morra por nada - Vikings"
+# Olá, me chamo <b>Carlos Alberto Junior</b>, mas podem me chamar de <b>Cloud</b>.
+
+- 🚀 Sou **empreendedor** e **produtor geek**.  
+- 🎭 **Cosplayer** e 🎵 **músico** por hobbie, apaixonado pelo universo geek.  
+- 💻 Atualmente estou me especializando em **Programação Front-End** pelo curso da **Ford Enter**, em parceria com o **SENAI**.  
+- 🌐 Convido vocês a visitarem o meu site [Cosnection](https://www.cosnection.com.br), desenvolvido com muita dedicação!
+ 
+> 💬 *"Viva por algo ou morra por nada."* — *Vikings*
+
 <H3> GITHUB STATUS</H3>
 <div align="left">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
