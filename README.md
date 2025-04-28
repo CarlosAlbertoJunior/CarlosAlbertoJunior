@@ -1,4 +1,12 @@
-<div align="center">
+<H3>SOBRE</H3>
+Olá, me chamo Carlos Alberto Junior, mas pode chamar de <b>Cloud</b>: <br>
+- Sou Empreendedor e produtor Geek. <br>
+- Cosplay e músico por hobbie e apaixonado pelo universo. <br>
+- Atualmente estou me especializando em Programação Front End pelo curso da FORD ENTER via SENAI. <br>
+- Visitem o meu site, feito com muita dedicação. <br>
+- 💬 "Viva por algo ou morra por nada - Vikings"
+<H3> GITHUB STATUS</H3>
+<div align="left">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- GitHub Stats -->
     <img
@@ -14,7 +22,7 @@
       >
     </a>
   </div>
-  
+  <H3> LANGUAGENS</H3>
   <div style="display: inline_block; margin-top: 10px;"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
