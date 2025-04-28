@@ -2,7 +2,7 @@
 # Olá, me chamo <b>Carlos Alberto Junior</b>, mas podem me chamar de <b>Cloud</b>.
 
 - 🚀 Sou **empreendedor** e **produtor geek**.  
-- 🎭 **Cosplayer** e 🎵 **músico** por hobbie, apaixonado pelo universo geek.  
+- 🎭 **Cosplayer** e 🎵 **músico** por hobbie, apaixonado pelo **universo**.  
 - 💻 Atualmente estou me especializando em **Programação Front-End** pelo curso da **Ford Enter**, em parceria com o **SENAI**.  
 - 🌐 Convido vocês a visitarem o meu site [Cosnection](https://www.cosnection.com.br), desenvolvido com muita dedicação!
  
