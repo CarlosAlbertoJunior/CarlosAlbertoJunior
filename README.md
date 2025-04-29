@@ -25,7 +25,7 @@
       >
     </a>
   </div>
-  <H3> LANGUAGENS</H3>
+  <H3>LINGUAGENS e TECNOLOGIAS</H3>
   <div style="display: inline_block; margin-top: 10px;"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
