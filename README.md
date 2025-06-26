@@ -13,10 +13,10 @@
 ![Estatísticas do GitHub de CarlosAlbertoJunior](https://github-readme-stats.vercel.app/api?username=CarlosAlbertoJunior&show_icons=true&theme=tokyonight)
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunohsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlbertoJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
 # <H3>LINGUAGENS e TECNOLOGIAS</H3>
